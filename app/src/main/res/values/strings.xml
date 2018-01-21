@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SOSMedInfo</string>
+    <string name="Accident">If Accident Tap here</string>
+    <string name="Medical_Information">Medical Information</string>
+    <string name="Emergency_email">Emergency Email</string>
+    <string name="emergency_number">(321)555-1212</string>
+    <string name="medical_history">Medical Hx: DiabetesII(Metformin), HTN(Amlodipine)</string>
+    <string name="emergency_contact_anna">Emergency Contact - Anna</string>
+    <string name="allergies">Allergies: NKDA</string>
+    <string name="medications">Medications</string>
+    <string name="hint">(321)555-1212</string>
+
+</resources>
